@@ -2,6 +2,9 @@ python-dotenv
 pandas
 numpy
 pymongo
+pymongo[srv]>=4.3
+dnspython>=2.0
 certifi
+
 
 ##-e .
