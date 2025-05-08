@@ -6,6 +6,8 @@ pymongo[srv]>=4.3
 dnspython>=2.0
 certifi
 scikit-learn
+dill
+pyaml
 
 
 ##-e .
